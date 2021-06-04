@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Batch23App</string>
+
+<!--    facebook app id (for login)-->
+    <string name="facebook_app_id">848499986022672</string>
+    <string name="fb_login_protocol_scheme">fb848499986022672</string>
 </resources>
