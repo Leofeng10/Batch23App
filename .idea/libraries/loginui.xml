@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="loginui">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/loginui.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
